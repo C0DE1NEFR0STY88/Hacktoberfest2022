@@ -10,7 +10,7 @@ objective is to create a repo filled with example code for beginners
 
 ->JQuery
 
-->
+-> CSS
 
 A mixed file containing more than 1 of the above in a single code block is also welcome
 
